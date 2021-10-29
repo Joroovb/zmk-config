@@ -9,9 +9,9 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/rgb.h>
 
-#define NAV 4
-#define SYM 5
-#define NUM 6
+#define NAV 1
+#define SYM 2
+#define NUM 3
 
 / {
         keymap {
