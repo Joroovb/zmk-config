@@ -80,9 +80,9 @@
 //                                              |     |     |     |     |     |
                         bindings = <
    &none &none &none &none &none &none  &none &none &none &none &none &none
-   &none &none &none &none &none &none  &kp LEFT &kp UP &kp DOWN &RIGHT &none &none
+   &none &none &none &none &none &none  &kp LEFT &kp UP &kp DOWN &kp RIGHT &none &none
    &none &none &none &none &none &none  &none &none &none &none &none &none
-            &trans      &trans       &tog 3        &trans      &trans
+            &trans      &trans       &none        &trans      &trans
                         >;
                 };
         };
